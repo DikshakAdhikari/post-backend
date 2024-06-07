@@ -41,5 +41,5 @@ async function init(){
 // init();
 
 module.exports={
-    getObjectUrl, putObject, 
+    getObjectUrl, putObject
 }
