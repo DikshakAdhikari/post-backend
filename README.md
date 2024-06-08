@@ -1,3 +1,5 @@
+# API's DOCUMENTATION
+
 ### 1) Create a Post
 
 - **Endpoint**: `/posts/`
