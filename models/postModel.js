@@ -12,8 +12,12 @@ const postSchema= mongoose.Schema({
     description:{
         type:String,
         required: true
-    }
-})
+    },
+    tags: [{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Tag'
+    }]
+}, {timestamps:true})
 
 const postModel= new mongoose.model('post', postSchema)
 module.exports= postModel
