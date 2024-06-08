@@ -9,7 +9,7 @@
 - **Body**:
 ```json
 {
-    "file": "img",
+    "file": "img.jpg",
     "title": "nodejs",
     "description": "nodejs description",
     "tags": ["fashion", "products"]
