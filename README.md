@@ -10,7 +10,7 @@
     "file": "img",
     "title": "nodejs",
     "description": "nodejs description",
-    "tags": ["fashion", "products", ...]
+    "tags": ["fashion", "products"]
 }
 ```
 
